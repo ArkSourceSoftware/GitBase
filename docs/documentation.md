@@ -18,7 +18,7 @@ This page serves as your central hub to explore all available documentation, gui
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Begin your journey with GitBase by following these essential first steps. This guide covers installation, setup, and your initial repository experience.
 
@@ -26,7 +26,7 @@ Begin your journey with GitBase by following these essential first steps. This g
 
 ---
 
-## 📦 Repositories
+## Repositories
 
 Master repository creation, management, and collaboration with Git and SVN workflows using GitBase's intuitive interface.
 
@@ -38,7 +38,7 @@ Master repository creation, management, and collaboration with Git and SVN workf
 
 ---
 
-## 👥 Users & Accounts
+## Users & Accounts
 
 Explore user account management, profile settings, collaboration features, and team integration capabilities.
 
@@ -46,7 +46,7 @@ Explore user account management, profile settings, collaboration features, and t
 
 ---
 
-## 🔄 Pull Requests
+## Pull Requests
 
 Learn how to create, review, and manage pull requests for code reviews and feature contributions.
 
@@ -59,7 +59,7 @@ Learn how to create, review, and manage pull requests for code reviews and featu
 
 ---
 
-## 🐛 Issues
+## Issues
 
 Manage issues, track bugs, and coordinate bug fixes across your GitBase repositories.
 
@@ -72,7 +72,7 @@ Manage issues, track bugs, and coordinate bug fixes across your GitBase reposito
 
 ---
 
-## 🚀 Releases
+## Releases
 
 Manage software releases with version control, changelogs, and deployment workflows.
 
@@ -85,7 +85,7 @@ Manage software releases with version control, changelogs, and deployment workfl
 
 ---
 
-## 🔐 Permissions
+## Permissions
 
 Understand how GitBase manages access control, user permissions, and repository-level security settings.
 
@@ -98,7 +98,7 @@ Understand how GitBase manages access control, user permissions, and repository-
 
 ---
 
-## 💾 Backup & Restore
+## Backup & Restore
 
 Protect your GitBase server with built-in Snapshot backups.
 
@@ -110,7 +110,7 @@ Protect your GitBase server with built-in Snapshot backups.
 
 ---
 
-## ❓ FAQ
+## FAQ
 
 Find answers to the most common questions about GitBase functionality, troubleshooting tips, and clarifications on features.
 
@@ -118,7 +118,7 @@ Find answers to the most common questions about GitBase functionality, troublesh
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 See where GitBase is going next. Our roadmap provides insight into planned features, improvements, and future ideas as we continue to develop GitBase.
 

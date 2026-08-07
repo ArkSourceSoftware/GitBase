@@ -27,6 +27,7 @@
 </div>
 
 ![screen1.png](assets/banner.png)
+[Discuss, ask questions & request features](../../discussions)
 
 
 ## What is GitBase?
@@ -108,16 +109,11 @@ GitBase --> Database
 ## Documentation
 - [Documentation](docs/documentation.md)
 - [FAQ](docs/faq.md)
-- [Roadmap](docs/roadmap.md)
 
 
 ## Support
-- GitHub Discussions: [Discuss & ask questions](../../discussions)
-- Issues: [Report bugs or request features](https://github.com/ArkSource/GitBase/issues)
-
-
-## Changelog
-See [Release Notes](https://github.com/ArkSource/GitBase/wiki/Release-Notes) for detailed changes.
+- GitHub Discussions: [Discuss, ask questions & request features](../../discussions)
+- Issues: [Report bugs](https://github.com/ArkSource/GitBase/issues)
 
 
 ## License
